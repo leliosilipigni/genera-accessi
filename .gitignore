@@ -1,0 +1,7 @@
+# nessun dato, solo l'applicazione
+# il file di lavoro con le credenziali non deve MAI entrare qui
+attivazioni.json
+attivazioni.csv
+*.bak
+backup/
+genera-backup-*.json
